@@ -1,2 +1,2 @@
-# java-programlamaya-giris
+# java-programlama
 Java Programlamaya Giriş
